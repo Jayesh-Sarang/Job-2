@@ -21,7 +21,7 @@ class Job2
 	}
 	//If isPrime is true then the number is prime else not
 	if(isPrime)
-	   System.out.println(num + " is a Prime Number");
+	   System.out.println(num + " is a Prime Number changed");
 	else
 	   System.out.println(num + " is not a Prime Number");
    }
